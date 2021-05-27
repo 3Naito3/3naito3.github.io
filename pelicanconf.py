@@ -38,5 +38,7 @@ STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/custom.css': {'path': 'custom.css'},
+    'extra/custom.css': {'path': 'theme/css/custom.css'},
 }
+
+CSS_FILE = 'custom.css'
