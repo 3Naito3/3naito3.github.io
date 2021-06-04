@@ -10,7 +10,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://3naito3.github.io'
+SITEURL = 'https://lovasblog.github.io'
 RELATIVE_URLS = False
 
 FEED_MAX_ITEMS = 15
