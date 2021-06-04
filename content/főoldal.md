@@ -1,7 +1,7 @@
-Title: Főoldal
-Date: 2021-05-27 19:22
-Category: Home
-Tags: about
+Title: Bemutatkozó
+Date: 2021-06-04 21:40
+Category: Főoldal
+Tags: 
 Authors: Naito
 Summary: Megjegyzések a boghoz
 
@@ -10,5 +10,9 @@ Mióta az eszemet tudom, a lovak a szerelmeim. Akármivel is foglalkoztam, valah
 Sajnos azzal kellett szembesülnöm, hogy miután elég sokat foglalkoztam a lovakkal angol nyelvi környezetben, magyar nyelven már nem is volt annyira egyszerű beszélnem róluk. Leginkább azért, mert a magyar lószín nevek máig megtartották a hagyományos megnevezéseiket, melyek genetikailag egyáltalán nem helyesek. Továbbá sok az olyan szín, amire magyar szó nem is létezik.
 
 Úgy látom, ideje orvosolni a bajt, és helyére tenni a színkavalkádot. Azon színeknek, melyeknek nem találok magyar megfelelőt, az angol név mellé a szó szerinti fordításukat fogom írni, hogy azok is érthessék, akik nem beszélik a nyelvet. A blogon továbbá található egy poszt a genetikáról általánosságban, ennek segítségével könnyebben érthető lesz az egyes színek leírása.
+
+A blogon lószínekhez forrásokként az alábbi két weboldalt használtam:  
+[https://vgl.ucdavis.edu/resources/horse-coat-color](https://vgl.ucdavis.edu/resources/horse-coat-color)  
+[https://www.horse-genetics.com/horse-colors.html](https://www.horse-genetics.com/horse-colors.html)
 
 Vágjunk hát bele!
