@@ -51,6 +51,7 @@ EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     # 'extra/custom.css': {'path': 'theme/css/custom.css'},
+    'extra/googleb5a40eb476852296.html': {'path': 'googleb5a40eb476852296.html'},
 }
 
 # CSS_FILE = 'custom.css'
